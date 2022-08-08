@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Andrew Emad 
-- 🌱 I’m currently learning IOS Mobile App Development using Swift & Xcode
+- 🌱 iOS Developer
 
 
 <!---
