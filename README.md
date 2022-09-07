@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Andrew Emad 
+- 👋 Hello, I’m Andrew Emad 
 - 🌱 iOS Developer
 
 
