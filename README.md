@@ -15,7 +15,11 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewEmad98&layout=compact&theme=radical)
 
+### 💪 Total Contributions:
+![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AndrewEmad98&show_icons=true&count_private=true&theme=radical)
 
+
+- 📫 How to reach me andrew.gergeus@gmail.com
 <!---
 AndrewEmad98/AndrewEmad98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
