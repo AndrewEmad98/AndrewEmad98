@@ -9,17 +9,17 @@
 
 📈 **GitHub Stats:**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewEmad98&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewEmad98&show_icons=true&count_private=true&theme=dark)
 
 ### 📊 Most Used Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewEmad98&layout=compact&theme=radical)
 
 ### 💪 Total Contributions:
-![GitHub Contributions](https://github-readme-stats.vercel.app/api?username=AndrewEmad98&show_icons=true&count_private=true&theme=radical)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndrewEmad98&theme=dark)](https://git.io/streak-stats)
 
-- 📫 How to reach me andrew.gergeus@gmail.com
+- 📫 You can reach me over email address: andrew.gergeus@gmail.com
 <!---
 AndrewEmad98/AndrewEmad98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
