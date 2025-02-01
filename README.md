@@ -1,5 +1,5 @@
 ### Hi there 👋, I’m Andrew Emad!
-🚀 iOS & Flutter Developer | KMM Enthusiast | Passionate about building smooth mobile experiences | vert adaptive to new techs
+🚀 iOS & Flutter Developer | KMM Enthusiast | Passionate about building smooth mobile experiences | vert adaptive to new techs \n
 🚀 I have more than 2 years of experience building innovative apps.
 
 **Tech Stack:**
