@@ -1,8 +1,6 @@
 ### Hi there 👋, I’m Andrew Emad!
 🚀 iOS & Android & Flutter Developer | Mobile App Developer | KMM Enthusiast | Passionate about building smooth mobile experiences | very adaptive to new techs
 
-🚀 I have more than 2 years of experience building innovative apps.
-
 **Tech Stack:**
 - 🛠️ iOS, Android, Flutter, Swift, UIKit, SwiftUI, Kotlin, KMM, Firebase
 - ☁️ AWS, Google Cloud, Fastlane
