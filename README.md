@@ -13,7 +13,7 @@
 
 ### 📊 Most Used Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewEmad98&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewEmad98&count_private=true&layout=compact&theme=radical)
 
 ### 💪 Total Contributions:
 
