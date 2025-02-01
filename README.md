@@ -17,7 +17,7 @@
 
 ### 💪 Total Contributions:
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=AndrewEmad98&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=AndrewEmad98&theme=dark)]
 
 - 📫 You can reach me over email address: andrew.gergeus@gmail.com
 <!---
