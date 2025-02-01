@@ -9,7 +9,7 @@
 
 📈 **GitHub Stats:**
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewEmad98&show_icons=true&count_private=true&theme=dark)
+![Andrew Emad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AndrewEmad98&show_icons=true&count_private=true&theme=dark)
 
 ### 📊 Most Used Languages:
 
